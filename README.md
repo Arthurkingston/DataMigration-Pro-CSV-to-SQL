@@ -16,9 +16,10 @@
 - **Database Engine:** SQLAlchemy
 
 ## 📥 Installation & Setup
+## 📥 Installation & Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Arthukingston/DataMigration-Pro-CSV-to-SQL.git
+   git clone https://github.com/Arthurkingston/DataMigration-Pro-CSV-to-SQL.git
    ```
    **Developed by:** Parth Kalaskar (Arthurkingston)
