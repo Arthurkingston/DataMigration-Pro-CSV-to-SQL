@@ -1,0 +1,7 @@
+Order-UID,Transaction_Date,Buyer_Name,Client_Segment,Item_SKU,Product_Name,Category,Price_Sales,Units,Client_Region,City_Location,Postal_Code,Notes
+ORD-001,15/01/2023,José "The Boss" Garcia,Corporate,SKU-99,15" Monitor 'Pro Series',Electronics,299.99,1,North,São Paulo,01001-000,Standard Delivery
+ORD-002,20/01/2023,José "The Boss" Garcia,Corporate,SKU-99,15" Monitor 'Pro Series',Electronics,299.99,2,North,São Paulo,01001-000,Bulk Order
+ORD-003,05/02/2023,O'Reilly Media,Small Business,SKU-42,Python "Master" Book,Books,45.50,1,West,San Francisco,94103,Glossy Cover
+ORD-004,12/03/2023,Renée Müller,Consumer,SKU-10,L'Oréal Shampoo,Beauty,12.00,3,East,Berlin,10115,International Item
+ORD-005,25/12/2023,Santa Claus,Consumer,SKU-Xmas,Red Sleigh 'Turbo',Vehicles,9999.00,1,North Pole,Arctic,00000,Express Only
+ORD-006,01/01/2024,Santa Claus,Consumer,SKU-10,L'Oréal Shampoo,Beauty,12.00,1,North Pole,Arctic,00000,New Year Restock
